@@ -1,0 +1,125 @@
+// sass-lint:disable no-color-keywords
+$color-list: (white:#fff,
+  default: #e1e5ec,
+  blue: #3598dc,
+  blue-madison: #578ebe,
+  blue-chambray: #2c3e50,
+  blue-ebonyclay: #22313f,
+  blue-hoki: #67809f,
+  blue-steel: #4b77be,
+  blue-soft: #4c87b9,
+  blue-dark: #5e738b,
+  blue-sharp: #5c9bd1,
+  blue-oleo: #94a0b2,
+  green: #32c5d2,
+  green-meadow: #1bbc9b,
+  green-seagreen: #1ba39c,
+  green-turquoise: #36d7b7,
+  green-haze: #44b6ae,
+  green-jungle: #26c281,
+  green-soft: #3faba4,
+  green-dark: #4db3a2,
+  green-sharp: #2ab4c0,
+  green-steel: #29b4b6,
+  green-quote:#1e8726,
+  grey: #e5e5e5,
+  grey-steel: #e9edef,
+  grey-cararra: #fafafa,
+  grey-gallery: #555,
+  grey-cascade: #95a5a6,
+  grey-silver: #bfbfbf,
+  grey-salsa: #acb5c3,
+  grey-salt: #bfcad1,
+  grey-mint: #525e64,
+  red: #e7505a,
+  red-pink: #e08283,
+  red-sunglo: #e26a6a,
+  red-intense: #e35b5a,
+  red-thunderbird: #d91e18,
+  red-flamingo: #ef4836,
+  red-soft: #d05454,
+  red-haze: #f36a5a,
+  red-mint: #e43a45,
+  red-quote: #f00,
+  yellow: #c49f47,
+  yellow-gold: #e87e04,
+  yellow-casablanca: #f2784b,
+  yellow-crusta: #f3c200,
+  yellow-lemon: #f7ca18,
+  yellow-saffron: #f4d03f,
+  yellow-soft: #c8d046,
+  yellow-haze: #c5bf66,
+  yellow-mint: #c5b96b,
+  purple: #8e44ad,
+  purple-plum: #8775a7,
+  purple-medium: #bf55ec,
+  purple-studio: #8e44ad,
+  purple-wisteria: #9b59b6,
+  purple-seance: #9a12b3,
+  purple-intense: #8775a7,
+  purple-sharp: #796799,
+  purple-soft: #8877a9,
+  color-edit: #878787,
+  color-view: #5dade4,
+  color-delete: #ed7b83);
+
+$color-default: #e1e5ec;
+$color-white:#fff;
+$color-blue: #5592ee;
+$color-blue-madison: #578ebe;
+$color-blue-chambray: #2c3e50;
+$color-blue-ebonyclay: #22313f;
+$color-blue-hoki: #67809f;
+$color-blue-steel: #4b77be;
+$color-blue-soft: #4c87b9;
+$color-blue-dark: #5e738b;
+$color-blue-sharp: #5c9bd1;
+$color-blue-oleo: #94a0b2;
+$color-green: #32c5d2;
+$color-green-meadow: #1bbc9b;
+$color-green-seagreen: #1ba39c;
+$color-green-turquoise: #36d7b7;
+$color-green-haze: #44b6ae;
+$color-green-jungle: #26c281;
+$color-green-soft: #3faba4;
+$color-green-dark: #4db3a2;
+$color-green-sharp: #2ab4c0;
+$color-green-steel: #29b4b6;
+$color-green-quote: #1e8726;
+$color-grey: #e5e5e5;
+$color-grey-steel: #e9edef;
+$color-grey-cararra: #fafafa;
+$color-grey-gallery: #555;
+$color-grey-cascade: #95a5a6;
+$color-grey-silver: #bfbfbf;
+$color-grey-salsa: #acb5c3;
+$color-grey-salt: #bfcad1;
+$color-grey-mint: #525e64;
+$color-red: #e7505a;
+$color-red-pink: #e08283;
+$color-red-sunglo: #e26a6a;
+$color-red-intense: #e35b5a;
+$color-red-thunderbird: #d91e18;
+$color-red-flamingo: #ef4836;
+$color-red-quote:#f00;
+$color-red-soft: #d05454;
+$color-red-haze: #f36a5a;
+$color-red-mint: #e43a45;
+$color-yellow: #c49f47;
+$color-yellow-gold: #e87e04;
+$color-yellow-casablanca: #f2784b;
+$color-yellow-crusta: #f3c200;
+$color-yellow-lemon: #f7ca18;
+$color-yellow-saffron: #f4d03f;
+$color-yellow-soft: #c8d046;
+$color-yellow-haze: #c5bf66;
+$color-yellow-mint: #c5b96b;
+$color-purple: #8e44ad;
+$color-purple-plum: #8775a7;
+$color-purple-medium: #bf55ec;
+$color-purple-studio: #8e44ad;
+$color-purple-wisteria: #9b59b6;
+$color-purple-seance: #9a12b3;
+$color-purple-intense: #8775a7;
+$color-purple-sharp: #796799;
+$color-purple-soft: #8877a9;

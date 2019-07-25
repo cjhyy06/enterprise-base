@@ -1,0 +1,16 @@
+@import './color.scss';
+$color-primary: $color-blue;
+$app-header-color:$color-blue;
+$app-slider-color:$color-blue;
+$app-footer-color:$color-blue;
+$menu-text-default-color:$color-white;
+$menu-text-active-text-color:$color-yellow-lemon;
+$menu-text-active-bg-color:$color-green-meadow;
+
+
+:export {
+  appMenuBackgroundColor: $color-primary;
+  appMenuTextDefaultColor: $color-white;
+  appMenuActiveTextColor: $menu-text-active-text-color;
+  appMenuActiveBackgroundColor: $menu-text-active-bg-color;
+}
